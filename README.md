@@ -1,6 +1,6 @@
 # Jungle Gaming React + Vite
 
-A React + Vite recreation of the approved Jungle Gaming reference layout.
+A React + Vite recreation of Jungle Gaming reference layout.
 
 ## Requirements
 
@@ -38,10 +38,3 @@ git push -u origin main
 
 Replace `YOUR_GITHUB_REPOSITORY_URL` with your repository address.
 
-## Hostinger Node.js deployment
-
-- Build command: `npm run build`
-- Output directory: `dist`
-- Package manager: `npm`
-
-The current implementation references the approved live image and logo asset paths. Replace those paths with locally owned assets before redistributing the project.
