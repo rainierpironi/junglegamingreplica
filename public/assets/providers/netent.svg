@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Gradiente_sem_nome);
+      }
+
+      .cls-2 {
+        fill: url(#Gradiente_sem_nome_2);
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome" data-name="Gradiente sem nome" x1="196.4" y1="82.4" x2="196.4" y2="177.1" gradientTransform="translate(0 258) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#557d2b"/>
+      <stop offset=".3" stop-color="#557d2b"/>
+      <stop offset=".6" stop-color="#9ac13a"/>
+      <stop offset=".7" stop-color="#76ad1c"/>
+      <stop offset="1" stop-color="#76ad1c"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_2" data-name="Gradiente sem nome 2" x1="64.6" y1="101.2" x2="64.6" y2="157.1" gradientTransform="translate(0 258) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#353536"/>
+      <stop offset=".6" stop-color="#b0b2b3"/>
+      <stop offset="1" stop-color="#8a8b8d"/>
+    </linearGradient>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 578)  -->
+  <g>
+    <g id="Camada_1">
+      <path class="cls-1" d="M220.3,100.9h36.7v10.7h-12.8v45.2h-11.1v-45.2h-12.8v-10.7ZM172.9,100.9h9.8l21.8,34.1v-34.1h11.1v55.9h-9.8l-21.8-34.1v34.1h-11.1v-55.9ZM138,100.9h29v10.7h-25.6v11.9h21.8v10.7h-21.8v11.9h25.6v10.7h-29v18.8h-2.1v-94.7h2.1v20.1Z"/>
+      <path class="cls-2" d="M49.6,100.9h36.7v10.7h-25.2v11.9h21.8v10.7h-21.8v11.9h25.2v10.7h-36.7v-55.9ZM1,100.9h10.2l21.3,34.1v-34.1h11.1v55.9h-9.8l-21.8-34.1v34.1H1v-55.9ZM91.5,100.9h36.7v10.7h-12.8v45.2h-11.1v-45.2h-12.8v-10.7Z"/>
+    </g>
+  </g>
+</svg>
